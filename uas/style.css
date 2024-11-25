@@ -1,0 +1,11 @@
+h2 {
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+.container {
+    background-image: url(d:/pafumus&co.jpg);
+    background-size: cover;
+    background-position: center;
+}
